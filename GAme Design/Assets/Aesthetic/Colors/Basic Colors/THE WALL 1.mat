@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: THE WALL
+  m_Name: THE WALL 1
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _EMISSION
   m_LightmapFlags: 1
@@ -74,5 +74,5 @@ Material:
     - _UVSec: 0
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 0.28996083, g: 0.2976011, b: 0.33962262, a: 0.32156864}
-    - _EmissionColor: {r: 0.01152545, g: 0.015718704, b: 0.066037714, a: 1}
+    - _Color: {r: 0.16153437, g: 0.2830189, b: 0.2139936, a: 0.11764706}
+    - _EmissionColor: {r: 0.010457456, g: 0.047169805, b: 0.025202496, a: 1}
