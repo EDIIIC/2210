@@ -14,13 +14,13 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - BackGround
+  - Player
+  - Enemy
+  - Croisahnt
+  - Bullet
+  - Hazzard
+  - Bullet Destroy
   - 
   - 
   - 

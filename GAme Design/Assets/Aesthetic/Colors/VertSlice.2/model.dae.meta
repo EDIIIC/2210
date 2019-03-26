@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 88dcd4f734a7445eda3c1b0f57a37d0b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BobDistracter
+    100002: BobDistracter 1
+    100004: BonusPipe
+    100006: BonusPipe1
+    100008: BonusPipe2
+    100010: Bottle2
+    100012: Bottle3
+    100014: Bottle4
+    100016: Bottle5
+    100018: Bottle6
+    100020: Bottle7
+    100022: Box
+    100024: Box1
+    100026: Light
+    100028: Light 1
+    100030: //RootNode
+    100032: paper
+    100034: pCube30
+    100036: pCube30 1
+    100038: pCylinder10
+    100040: pCylinder3
+    100042: pCylinder4
+    100044: pCylinder5
+    100046: pCylinder6
+    100048: pCylinder7
+    100050: pCylinder8
+    100052: pCylinder9
+    100054: roofPipe
+    100056: Sewer_grate_End
+    100058: Sewer_grate_Start
+    100060: SewerMain
+    100062: SewerMain 1
+    100064: SewerMain 2
+    100066: SprayPipe
+    100068: SprayPipe 1
+    100070: Water1
+    100072: Water2
+    100074: Wheel
+    100076: Wheel 1
+    100078: Wood_plank
+    100080: Wood_plank1
+    100082: Wood_plank2
+    100084: Wood_plank3
+    400000: BobDistracter
+    400002: BobDistracter 1
+    400004: BonusPipe
+    400006: BonusPipe1
+    400008: BonusPipe2
+    400010: Bottle2
+    400012: Bottle3
+    400014: Bottle4
+    400016: Bottle5
+    400018: Bottle6
+    400020: Bottle7
+    400022: Box
+    400024: Box1
+    400026: Light
+    400028: Light 1
+    400030: //RootNode
+    400032: paper
+    400034: pCube30
+    400036: pCube30 1
+    400038: pCylinder10
+    400040: pCylinder3
+    400042: pCylinder4
+    400044: pCylinder5
+    400046: pCylinder6
+    400048: pCylinder7
+    400050: pCylinder8
+    400052: pCylinder9
+    400054: roofPipe
+    400056: Sewer_grate_End
+    400058: Sewer_grate_Start
+    400060: SewerMain
+    400062: SewerMain 1
+    400064: SewerMain 2
+    400066: SprayPipe
+    400068: SprayPipe 1
+    400070: Water1
+    400072: Water2
+    400074: Wheel
+    400076: Wheel 1
+    400078: Wood_plank
+    400080: Wood_plank1
+    400082: Wood_plank2
+    400084: Wood_plank3
+    2100000: Road
+    2100002: RoadTils
+    2100004: Wood
+    2100006: White
+    2100008: Metal
+    2100010: Bottle
+    2100012: Fabric
+    2100014: Water
+    2300000: BobDistracter
+    2300002: BobDistracter 1
+    2300004: BonusPipe
+    2300006: BonusPipe1
+    2300008: BonusPipe2
+    2300010: Bottle2
+    2300012: Bottle3
+    2300014: Bottle4
+    2300016: Bottle5
+    2300018: Bottle6
+    2300020: Bottle7
+    2300022: Box
+    2300024: Box1
+    2300026: Light
+    2300028: Light 1
+    2300030: paper
+    2300032: pCube30
+    2300034: pCube30 1
+    2300036: pCylinder10
+    2300038: pCylinder3
+    2300040: pCylinder4
+    2300042: pCylinder5
+    2300044: pCylinder6
+    2300046: pCylinder7
+    2300048: pCylinder8
+    2300050: pCylinder9
+    2300052: roofPipe
+    2300054: Sewer_grate_End
+    2300056: Sewer_grate_Start
+    2300058: SewerMain
+    2300060: SewerMain 1
+    2300062: SewerMain 2
+    2300064: SprayPipe
+    2300066: SprayPipe 1
+    2300068: Water1
+    2300070: Water2
+    2300072: Wheel
+    2300074: Wheel 1
+    2300076: Wood_plank
+    2300078: Wood_plank1
+    2300080: Wood_plank2
+    2300082: Wood_plank3
+    3300000: BobDistracter
+    3300002: BobDistracter 1
+    3300004: BonusPipe
+    3300006: BonusPipe1
+    3300008: BonusPipe2
+    3300010: Bottle2
+    3300012: Bottle3
+    3300014: Bottle4
+    3300016: Bottle5
+    3300018: Bottle6
+    3300020: Bottle7
+    3300022: Box
+    3300024: Box1
+    3300026: Light
+    3300028: Light 1
+    3300030: paper
+    3300032: pCube30
+    3300034: pCube30 1
+    3300036: pCylinder10
+    3300038: pCylinder3
+    3300040: pCylinder4
+    3300042: pCylinder5
+    3300044: pCylinder6
+    3300046: pCylinder7
+    3300048: pCylinder8
+    3300050: pCylinder9
+    3300052: roofPipe
+    3300054: Sewer_grate_End
+    3300056: Sewer_grate_Start
+    3300058: SewerMain
+    3300060: SewerMain 1
+    3300062: SewerMain 2
+    3300064: SprayPipe
+    3300066: SprayPipe 1
+    3300068: Water1
+    3300070: Water2
+    3300072: Wheel
+    3300074: Wheel 1
+    3300076: Wood_plank
+    3300078: Wood_plank1
+    3300080: Wood_plank2
+    3300082: Wood_plank3
+    4300000: SewerMain
+    4300002: SewerMain
+    4300004: SewerMain
+    4300006: paper
+    4300008: pCube30
+    4300010: Sewer_grate_End
+    4300012: pCylinder10
+    4300014: pCylinder9
+    4300016: pCylinder8
+    4300018: pCylinder7
+    4300020: SprayPipe
+    4300022: Wheel
+    4300024: SprayPipe
+    4300026: Wheel
+    4300028: BonusPipe2
+    4300030: BonusPipe1
+    4300032: BonusPipe
+    4300034: roofPipe
+    4300036: Light
+    4300038: Light
+    4300040: Bottle2
+    4300042: Bottle3
+    4300044: Bottle4
+    4300046: Wood_plank
+    4300048: Bottle5
+    4300050: Bottle6
+    4300052: Bottle7
+    4300054: Box
+    4300056: Box1
+    4300058: Wood_plank3
+    4300060: Wood_plank2
+    4300062: Wood_plank1
+    4300064: pCylinder6
+    4300066: pCylinder5
+    4300068: pCylinder4
+    4300070: pCylinder3
+    4300072: BobDistracter
+    4300074: BobDistracter
+    4300076: Water2
+    4300078: Water1
+    4300080: pCube30
+    4300082: Sewer_grate_Start
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,820 @@
+fileFormatVersion: 2
+guid: 19ccc5c7336f04e9fb17faefda3f55f3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: Antena
+    100004: Antena1
+    100006: BackFore1
+    100008: BackFore1 1
+    100010: BackHand
+    100012: BackHand 1
+    100014: BackL
+    100016: BackLeg
+    100018: BackLeg 1
+    100020: BackR
+    100022: BottomLipFlap
+    100024: Face_Eyes
+    100026: FontLeg
+    100028: FontLeg 1
+    100030: FrontFore
+    100032: FrontFore 1
+    100034: FrontHand
+    100036: FrontHand 1
+    100038: FrontL
+    100040: FrontR
+    100042: Head
+    100044: InnerMouth
+    100046: LBtooth
+    100048: LeftLegs
+    100050: Leg_Spikety1
+    100052: Leg_Spikety1 1
+    100054: Leg_Spikety1 2
+    100056: Leg_Spikety1 3
+    100058: Leg_Spikety1 4
+    100060: Leg_Spikety1 5
+    100062: Leg_Spikety2
+    100064: Leg_Spikety2 1
+    100066: LipFlapThing
+    100068: LMandible
+    100070: LMtooth
+    100072: LPinchThing
+    100074: MiddleFore
+    100076: MiddleFore 1
+    100078: MiddleHand
+    100080: MiddleHand 1
+    100082: MiddleLeg
+    100084: MiddleLeg 1
+    100086: OuterMouth
+    100088: RBtooth
+    100090: //RootNode
+    100092: RightLegs
+    100094: RMandible
+    100096: RMtooth
+    100098: RPinchThing
+    100100: Spike
+    100102: Spike 1
+    100104: Spike 2
+    100106: Spike 3
+    100108: Spike 4
+    100110: Spike 5
+    100112: Spike1
+    100114: Spike1 1
+    100116: Spike1 2
+    100118: Spike1 3
+    100120: Spike1 4
+    100122: Spike1 5
+    100124: Spike10
+    100126: Spike10 1
+    100128: Spike10 2
+    100130: Spike10 3
+    100132: Spike10 4
+    100134: Spike10 5
+    100136: Spike10 6
+    100138: Spike10 7
+    100140: Spike11
+    100142: Spike11 1
+    100144: Spike12
+    100146: Spike12 1
+    100148: Spike13
+    100150: Spike13 1
+    100152: Spike14
+    100154: Spike14 1
+    100156: Spike15
+    100158: Spike15 1
+    100160: Spike16
+    100162: Spike16 1
+    100164: Spike17
+    100166: Spike17 1
+    100168: Spike18
+    100170: Spike18 1
+    100172: Spike19
+    100174: Spike19 1
+    100176: Spike20
+    100178: Spike20 1
+    100180: Spike21
+    100182: Spike21 1
+    100184: Spike22
+    100186: Spike22 1
+    100188: Spike23
+    100190: Spike23 1
+    100192: Spike24
+    100194: Spike24 1
+    100196: Spike3
+    100198: Spike3 1
+    100200: Spike3 2
+    100202: Spike3 3
+    100204: Spike3 4
+    100206: Spike3 5
+    100208: Spike4
+    100210: Spike4 1
+    100212: Spike4 2
+    100214: Spike4 3
+    100216: Spike4 4
+    100218: Spike4 5
+    100220: Spike5
+    100222: Spike5 1
+    100224: Spike5 2
+    100226: Spike5 3
+    100228: Spike5 4
+    100230: Spike5 5
+    100232: Spike6
+    100234: Spike6 1
+    100236: Spike6 2
+    100238: Spike6 3
+    100240: Spike6 4
+    100242: Spike6 5
+    100244: Spike7
+    100246: Spike7 1
+    100248: Spike7 2
+    100250: Spike7 3
+    100252: Spike7 4
+    100254: Spike7 5
+    100256: Spike7 6
+    100258: Spike7 7
+    100260: Spike8
+    100262: Spike8 1
+    100264: Spike8 2
+    100266: Spike8 3
+    100268: Spike8 4
+    100270: Spike8 5
+    100272: Spike8 6
+    100274: Spike8 7
+    100276: Spike9
+    100278: Spike9 1
+    100280: Spike9 2
+    100282: Spike9 3
+    100284: Spike9 4
+    100286: Spike9 5
+    100288: Spike9 6
+    100290: Spike9 7
+    100292: Spkie2
+    100294: Spkie2 1
+    100296: Spkie2 2
+    100298: Spkie2 3
+    100300: Spkie2 4
+    100302: Spkie2 5
+    100304: ThoraxInner
+    100306: Wings
+    400000: Abdomen
+    400002: Antena
+    400004: Antena1
+    400006: BackFore1
+    400008: BackFore1 1
+    400010: BackHand
+    400012: BackHand 1
+    400014: BackL
+    400016: BackLeg
+    400018: BackLeg 1
+    400020: BackR
+    400022: BottomLipFlap
+    400024: Face_Eyes
+    400026: FontLeg
+    400028: FontLeg 1
+    400030: FrontFore
+    400032: FrontFore 1
+    400034: FrontHand
+    400036: FrontHand 1
+    400038: FrontL
+    400040: FrontR
+    400042: Head
+    400044: InnerMouth
+    400046: LBtooth
+    400048: LeftLegs
+    400050: Leg_Spikety1
+    400052: Leg_Spikety1 1
+    400054: Leg_Spikety1 2
+    400056: Leg_Spikety1 3
+    400058: Leg_Spikety1 4
+    400060: Leg_Spikety1 5
+    400062: Leg_Spikety2
+    400064: Leg_Spikety2 1
+    400066: LipFlapThing
+    400068: LMandible
+    400070: LMtooth
+    400072: LPinchThing
+    400074: MiddleFore
+    400076: MiddleFore 1
+    400078: MiddleHand
+    400080: MiddleHand 1
+    400082: MiddleLeg
+    400084: MiddleLeg 1
+    400086: OuterMouth
+    400088: RBtooth
+    400090: //RootNode
+    400092: RightLegs
+    400094: RMandible
+    400096: RMtooth
+    400098: RPinchThing
+    400100: Spike
+    400102: Spike 1
+    400104: Spike 2
+    400106: Spike 3
+    400108: Spike 4
+    400110: Spike 5
+    400112: Spike1
+    400114: Spike1 1
+    400116: Spike1 2
+    400118: Spike1 3
+    400120: Spike1 4
+    400122: Spike1 5
+    400124: Spike10
+    400126: Spike10 1
+    400128: Spike10 2
+    400130: Spike10 3
+    400132: Spike10 4
+    400134: Spike10 5
+    400136: Spike10 6
+    400138: Spike10 7
+    400140: Spike11
+    400142: Spike11 1
+    400144: Spike12
+    400146: Spike12 1
+    400148: Spike13
+    400150: Spike13 1
+    400152: Spike14
+    400154: Spike14 1
+    400156: Spike15
+    400158: Spike15 1
+    400160: Spike16
+    400162: Spike16 1
+    400164: Spike17
+    400166: Spike17 1
+    400168: Spike18
+    400170: Spike18 1
+    400172: Spike19
+    400174: Spike19 1
+    400176: Spike20
+    400178: Spike20 1
+    400180: Spike21
+    400182: Spike21 1
+    400184: Spike22
+    400186: Spike22 1
+    400188: Spike23
+    400190: Spike23 1
+    400192: Spike24
+    400194: Spike24 1
+    400196: Spike3
+    400198: Spike3 1
+    400200: Spike3 2
+    400202: Spike3 3
+    400204: Spike3 4
+    400206: Spike3 5
+    400208: Spike4
+    400210: Spike4 1
+    400212: Spike4 2
+    400214: Spike4 3
+    400216: Spike4 4
+    400218: Spike4 5
+    400220: Spike5
+    400222: Spike5 1
+    400224: Spike5 2
+    400226: Spike5 3
+    400228: Spike5 4
+    400230: Spike5 5
+    400232: Spike6
+    400234: Spike6 1
+    400236: Spike6 2
+    400238: Spike6 3
+    400240: Spike6 4
+    400242: Spike6 5
+    400244: Spike7
+    400246: Spike7 1
+    400248: Spike7 2
+    400250: Spike7 3
+    400252: Spike7 4
+    400254: Spike7 5
+    400256: Spike7 6
+    400258: Spike7 7
+    400260: Spike8
+    400262: Spike8 1
+    400264: Spike8 2
+    400266: Spike8 3
+    400268: Spike8 4
+    400270: Spike8 5
+    400272: Spike8 6
+    400274: Spike8 7
+    400276: Spike9
+    400278: Spike9 1
+    400280: Spike9 2
+    400282: Spike9 3
+    400284: Spike9 4
+    400286: Spike9 5
+    400288: Spike9 6
+    400290: Spike9 7
+    400292: Spkie2
+    400294: Spkie2 1
+    400296: Spkie2 2
+    400298: Spkie2 3
+    400300: Spkie2 4
+    400302: Spkie2 5
+    400304: ThoraxInner
+    400306: Wings
+    2100000: Legs
+    2100002: Body
+    2100004: Eyes1
+    2100006: Wing
+    2300000: Abdomen
+    2300002: Antena
+    2300004: Antena1
+    2300006: BackFore1
+    2300008: BackFore1 1
+    2300010: BackHand
+    2300012: BackHand 1
+    2300014: BackL
+    2300016: BackLeg
+    2300018: BackLeg 1
+    2300020: BackR
+    2300022: BottomLipFlap
+    2300024: Face_Eyes
+    2300026: FontLeg
+    2300028: FontLeg 1
+    2300030: FrontFore
+    2300032: FrontFore 1
+    2300034: FrontHand
+    2300036: FrontHand 1
+    2300038: FrontL
+    2300040: FrontR
+    2300042: LBtooth
+    2300044: LipFlapThing
+    2300046: LMandible
+    2300048: LMtooth
+    2300050: LPinchThing
+    2300052: MiddleFore
+    2300054: MiddleFore 1
+    2300056: MiddleHand
+    2300058: MiddleHand 1
+    2300060: MiddleLeg
+    2300062: MiddleLeg 1
+    2300064: RBtooth
+    2300066: RMandible
+    2300068: RMtooth
+    2300070: RPinchThing
+    2300072: Spike
+    2300074: Spike 1
+    2300076: Spike 2
+    2300078: Spike 3
+    2300080: Spike 4
+    2300082: Spike 5
+    2300084: Spike1
+    2300086: Spike1 1
+    2300088: Spike1 2
+    2300090: Spike1 3
+    2300092: Spike1 4
+    2300094: Spike1 5
+    2300096: Spike10
+    2300098: Spike10 1
+    2300100: Spike10 2
+    2300102: Spike10 3
+    2300104: Spike10 4
+    2300106: Spike10 5
+    2300108: Spike10 6
+    2300110: Spike10 7
+    2300112: Spike11
+    2300114: Spike11 1
+    2300116: Spike12
+    2300118: Spike12 1
+    2300120: Spike13
+    2300122: Spike13 1
+    2300124: Spike14
+    2300126: Spike14 1
+    2300128: Spike15
+    2300130: Spike15 1
+    2300132: Spike16
+    2300134: Spike16 1
+    2300136: Spike17
+    2300138: Spike17 1
+    2300140: Spike18
+    2300142: Spike18 1
+    2300144: Spike19
+    2300146: Spike19 1
+    2300148: Spike20
+    2300150: Spike20 1
+    2300152: Spike21
+    2300154: Spike21 1
+    2300156: Spike22
+    2300158: Spike22 1
+    2300160: Spike23
+    2300162: Spike23 1
+    2300164: Spike24
+    2300166: Spike24 1
+    2300168: Spike3
+    2300170: Spike3 1
+    2300172: Spike3 2
+    2300174: Spike3 3
+    2300176: Spike3 4
+    2300178: Spike3 5
+    2300180: Spike4
+    2300182: Spike4 1
+    2300184: Spike4 2
+    2300186: Spike4 3
+    2300188: Spike4 4
+    2300190: Spike4 5
+    2300192: Spike5
+    2300194: Spike5 1
+    2300196: Spike5 2
+    2300198: Spike5 3
+    2300200: Spike5 4
+    2300202: Spike5 5
+    2300204: Spike6
+    2300206: Spike6 1
+    2300208: Spike6 2
+    2300210: Spike6 3
+    2300212: Spike6 4
+    2300214: Spike6 5
+    2300216: Spike7
+    2300218: Spike7 1
+    2300220: Spike7 2
+    2300222: Spike7 3
+    2300224: Spike7 4
+    2300226: Spike7 5
+    2300228: Spike7 6
+    2300230: Spike7 7
+    2300232: Spike8
+    2300234: Spike8 1
+    2300236: Spike8 2
+    2300238: Spike8 3
+    2300240: Spike8 4
+    2300242: Spike8 5
+    2300244: Spike8 6
+    2300246: Spike8 7
+    2300248: Spike9
+    2300250: Spike9 1
+    2300252: Spike9 2
+    2300254: Spike9 3
+    2300256: Spike9 4
+    2300258: Spike9 5
+    2300260: Spike9 6
+    2300262: Spike9 7
+    2300264: Spkie2
+    2300266: Spkie2 1
+    2300268: Spkie2 2
+    2300270: Spkie2 3
+    2300272: Spkie2 4
+    2300274: Spkie2 5
+    2300276: ThoraxInner
+    3300000: Abdomen
+    3300002: Antena
+    3300004: Antena1
+    3300006: BackFore1
+    3300008: BackFore1 1
+    3300010: BackHand
+    3300012: BackHand 1
+    3300014: BackL
+    3300016: BackLeg
+    3300018: BackLeg 1
+    3300020: BackR
+    3300022: BottomLipFlap
+    3300024: Face_Eyes
+    3300026: FontLeg
+    3300028: FontLeg 1
+    3300030: FrontFore
+    3300032: FrontFore 1
+    3300034: FrontHand
+    3300036: FrontHand 1
+    3300038: FrontL
+    3300040: FrontR
+    3300042: LBtooth
+    3300044: LipFlapThing
+    3300046: LMandible
+    3300048: LMtooth
+    3300050: LPinchThing
+    3300052: MiddleFore
+    3300054: MiddleFore 1
+    3300056: MiddleHand
+    3300058: MiddleHand 1
+    3300060: MiddleLeg
+    3300062: MiddleLeg 1
+    3300064: RBtooth
+    3300066: RMandible
+    3300068: RMtooth
+    3300070: RPinchThing
+    3300072: Spike
+    3300074: Spike 1
+    3300076: Spike 2
+    3300078: Spike 3
+    3300080: Spike 4
+    3300082: Spike 5
+    3300084: Spike1
+    3300086: Spike1 1
+    3300088: Spike1 2
+    3300090: Spike1 3
+    3300092: Spike1 4
+    3300094: Spike1 5
+    3300096: Spike10
+    3300098: Spike10 1
+    3300100: Spike10 2
+    3300102: Spike10 3
+    3300104: Spike10 4
+    3300106: Spike10 5
+    3300108: Spike10 6
+    3300110: Spike10 7
+    3300112: Spike11
+    3300114: Spike11 1
+    3300116: Spike12
+    3300118: Spike12 1
+    3300120: Spike13
+    3300122: Spike13 1
+    3300124: Spike14
+    3300126: Spike14 1
+    3300128: Spike15
+    3300130: Spike15 1
+    3300132: Spike16
+    3300134: Spike16 1
+    3300136: Spike17
+    3300138: Spike17 1
+    3300140: Spike18
+    3300142: Spike18 1
+    3300144: Spike19
+    3300146: Spike19 1
+    3300148: Spike20
+    3300150: Spike20 1
+    3300152: Spike21
+    3300154: Spike21 1
+    3300156: Spike22
+    3300158: Spike22 1
+    3300160: Spike23
+    3300162: Spike23 1
+    3300164: Spike24
+    3300166: Spike24 1
+    3300168: Spike3
+    3300170: Spike3 1
+    3300172: Spike3 2
+    3300174: Spike3 3
+    3300176: Spike3 4
+    3300178: Spike3 5
+    3300180: Spike4
+    3300182: Spike4 1
+    3300184: Spike4 2
+    3300186: Spike4 3
+    3300188: Spike4 4
+    3300190: Spike4 5
+    3300192: Spike5
+    3300194: Spike5 1
+    3300196: Spike5 2
+    3300198: Spike5 3
+    3300200: Spike5 4
+    3300202: Spike5 5
+    3300204: Spike6
+    3300206: Spike6 1
+    3300208: Spike6 2
+    3300210: Spike6 3
+    3300212: Spike6 4
+    3300214: Spike6 5
+    3300216: Spike7
+    3300218: Spike7 1
+    3300220: Spike7 2
+    3300222: Spike7 3
+    3300224: Spike7 4
+    3300226: Spike7 5
+    3300228: Spike7 6
+    3300230: Spike7 7
+    3300232: Spike8
+    3300234: Spike8 1
+    3300236: Spike8 2
+    3300238: Spike8 3
+    3300240: Spike8 4
+    3300242: Spike8 5
+    3300244: Spike8 6
+    3300246: Spike8 7
+    3300248: Spike9
+    3300250: Spike9 1
+    3300252: Spike9 2
+    3300254: Spike9 3
+    3300256: Spike9 4
+    3300258: Spike9 5
+    3300260: Spike9 6
+    3300262: Spike9 7
+    3300264: Spkie2
+    3300266: Spkie2 1
+    3300268: Spkie2 2
+    3300270: Spkie2 3
+    3300272: Spkie2 4
+    3300274: Spkie2 5
+    3300276: ThoraxInner
+    4300000: RBtooth
+    4300002: RMtooth
+    4300004: RPinchThing
+    4300006: LBtooth
+    4300008: LMtooth
+    4300010: LPinchThing
+    4300012: BottomLipFlap
+    4300014: LMandible
+    4300016: RMandible
+    4300018: LipFlapThing
+    4300020: Face_Eyes
+    4300022: Antena
+    4300024: Antena1
+    4300026: BackLeg
+    4300028: BackFore1
+    4300030: BackHand
+    4300032: Spike
+    4300034: Spike1
+    4300036: Spkie2
+    4300038: Spike3
+    4300040: Spike4
+    4300042: Spike5
+    4300044: Spike6
+    4300046: Spike7
+    4300048: Spike8
+    4300050: Spike9
+    4300052: Spike10
+    4300054: MiddleLeg
+    4300056: MiddleFore
+    4300058: MiddleHand
+    4300060: Spike
+    4300062: Spike1
+    4300064: Spkie2
+    4300066: Spike3
+    4300068: Spike4
+    4300070: Spike5
+    4300072: Spike6
+    4300074: Spike7
+    4300076: Spike8
+    4300078: Spike9
+    4300080: Spike10
+    4300082: FontLeg
+    4300084: FrontFore
+    4300086: FrontHand
+    4300088: Spike7
+    4300090: Spike8
+    4300092: Spike9
+    4300094: Spike10
+    4300096: Spike11
+    4300098: Spike12
+    4300100: Spike13
+    4300102: Spike14
+    4300104: Spike15
+    4300106: Spike16
+    4300108: Spike17
+    4300110: Spike18
+    4300112: Spike19
+    4300114: Spike20
+    4300116: Spike21
+    4300118: Spike22
+    4300120: Spike23
+    4300122: Spike24
+    4300124: Spike
+    4300126: Spike1
+    4300128: Spkie2
+    4300130: Spike3
+    4300132: Spike4
+    4300134: Spike5
+    4300136: Spike6
+    4300138: Spike7
+    4300140: Spike8
+    4300142: Spike9
+    4300144: Spike10
+    4300146: FrontL
+    4300148: FrontR
+    4300150: BackL
+    4300152: BackR
+    4300154: Abdomen
+    4300156: ThoraxInner
+    4300158: BackLeg
+    4300160: BackFore1
+    4300162: BackHand
+    4300164: Spike
+    4300166: Spike1
+    4300168: Spkie2
+    4300170: Spike3
+    4300172: Spike4
+    4300174: Spike5
+    4300176: Spike6
+    4300178: Spike7
+    4300180: Spike8
+    4300182: Spike9
+    4300184: Spike10
+    4300186: MiddleLeg
+    4300188: MiddleFore
+    4300190: MiddleHand
+    4300192: Spike
+    4300194: Spike1
+    4300196: Spkie2
+    4300198: Spike3
+    4300200: Spike4
+    4300202: Spike5
+    4300204: Spike6
+    4300206: Spike7
+    4300208: Spike8
+    4300210: Spike9
+    4300212: Spike10
+    4300214: FontLeg
+    4300216: FrontFore
+    4300218: FrontHand
+    4300220: Spike7
+    4300222: Spike8
+    4300224: Spike9
+    4300226: Spike10
+    4300228: Spike11
+    4300230: Spike12
+    4300232: Spike13
+    4300234: Spike14
+    4300236: Spike15
+    4300238: Spike16
+    4300240: Spike17
+    4300242: Spike18
+    4300244: Spike19
+    4300246: Spike20
+    4300248: Spike21
+    4300250: Spike22
+    4300252: Spike23
+    4300254: Spike24
+    4300256: Spike
+    4300258: Spike1
+    4300260: Spkie2
+    4300262: Spike3
+    4300264: Spike4
+    4300266: Spike5
+    4300268: Spike6
+    4300270: Spike7
+    4300272: Spike8
+    4300274: Spike9
+    4300276: Spike10
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
