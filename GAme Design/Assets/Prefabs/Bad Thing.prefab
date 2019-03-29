@@ -28,7 +28,7 @@ GameObject:
   - component: {fileID: 2481571429897953811}
   - component: {fileID: 1248496282754385985}
   - component: {fileID: 550297589224065557}
-  m_Layer: 15
+  m_Layer: 11
   m_Name: Bad Thing
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -149,7 +149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a282fdcd9a2c4cadba23cc798e70995, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lifetime: 4
+  lifetime: 6.5
 --- !u!1001 &6734519863717742714
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -161,6 +161,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Rat Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 1338410980583940659, guid: e3e37c51e9eba4100939dbc23c6bdd38,
+        type: 3}
+      propertyPath: m_Layer
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 1338410980583940663, guid: e3e37c51e9eba4100939dbc23c6bdd38,
         type: 3}
@@ -231,6 +236,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 1.0667121
+      objectReference: {fileID: 0}
+    - target: {fileID: 3870608583899925939, guid: e3e37c51e9eba4100939dbc23c6bdd38,
+        type: 3}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 3870608583899925937, guid: e3e37c51e9eba4100939dbc23c6bdd38,
+        type: 3}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 3870608583899925943, guid: e3e37c51e9eba4100939dbc23c6bdd38,
+        type: 3}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 3870608583899925941, guid: e3e37c51e9eba4100939dbc23c6bdd38,
+        type: 3}
+      propertyPath: m_Layer
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 2429652602158837185, guid: e3e37c51e9eba4100939dbc23c6bdd38,
         type: 3}
