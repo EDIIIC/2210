@@ -1,16 +1,17 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Scene Scripts/MusicManager.cs">
+﻿<Properties StartupConfiguration="{8339B19F-F2F4-5282-EEB9-1964E17D2606}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Scene Scripts/CharacterAnim.cs">
     <Files>
       <File FileName="Assets/Scripts/Scene Scripts/MusicManager.cs" Line="10" Column="6" />
+      <File FileName="Assets/Scripts/Scene Scripts/CharacterAnim.cs" Line="31" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="GAme Design" expanded="True">
-            <Node name="Assembly-CSharp" expanded="True">
-              <Node name="Assets" expanded="True">
-                <Node name="Scripts" expanded="True">
-                  <Node name="Scene Scripts" expanded="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Scene Scripts" expanded="True">
+                  <Node name="CharacterAnim.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
@@ -21,6 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4cb687b2-f729-4a5e-a508-aa9fa0099c1c" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
