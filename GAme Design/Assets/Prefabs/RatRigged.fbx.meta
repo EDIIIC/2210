@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: b80a3e3dd2f9a46e79e42a5b4274c851
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bottom_Mouth
+    100002: Bottom_Mouth_ctrl
+    100004: Bottom_Mouth_ctrl_grp
+    100006: COG_ctrl
+    100008: COG_ctrl_grp
+    100010: Geo
+    100012: Head
+    100014: Head_ctrl
+    100016: Head_ctrl_grp
+    100018: Hip_Base
+    100020: Hip_ctrl
+    100022: Hip_ctrl_grp
+    100024: L_Arm
+    100026: L_arm_ctrl
+    100028: L_arm_ctrl_grp
+    100030: L_Foot
+    100032: L_foot_ctrl
+    100034: L_foot_ctrl_grp
+    100036: L_Hand
+    100038: L_hand_ctrl
+    100040: L_hand_ctrl_grp
+    100042: L_Leg
+    100044: L_leg_ctrl
+    100046: L_leg_ctrl_grp
+    100048: Neck
+    100050: Neck_ctrl
+    100052: Neck_ctrl_grp
+    100054: R_Arm
+    100056: R_arm_ctrl
+    100058: R_arm_ctrl_grp1
+    100060: R_Foot
+    100062: R_foot_ctrl
+    100064: R_foot_ctrl_grp
+    100066: R_Hand
+    100068: R_hand_ctrl
+    100070: R_hand_ctrl_grp
+    100072: R_Leg
+    100074: R_leg_ctrl
+    100076: R_leg_ctrl_grp
+    100078: //RootNode
+    100080: Skeleton
+    100082: Tail1
+    100084: Tail2
+    100086: Tail3
+    100088: Tail_1_ctrl
+    100090: Tail_1_ctrl_grp
+    100092: Tail_2_ctrl_grp
+    100094: Tail_2_ctrl_grp 1
+    100096: Tail_3_ctrl_grp
+    100098: Tail_3_ctrl_grp 1
+    100100: Top_Mouth
+    100102: Top_Mouth_ctrl
+    100104: Top_Mouth_ctrl_grp
+    100106: Transform_ctrl
+    100108: Transform_ctrl_grp
+    400000: Bottom_Mouth
+    400002: Bottom_Mouth_ctrl
+    400004: Bottom_Mouth_ctrl_grp
+    400006: COG_ctrl
+    400008: COG_ctrl_grp
+    400010: Geo
+    400012: Head
+    400014: Head_ctrl
+    400016: Head_ctrl_grp
+    400018: Hip_Base
+    400020: Hip_ctrl
+    400022: Hip_ctrl_grp
+    400024: L_Arm
+    400026: L_arm_ctrl
+    400028: L_arm_ctrl_grp
+    400030: L_Foot
+    400032: L_foot_ctrl
+    400034: L_foot_ctrl_grp
+    400036: L_Hand
+    400038: L_hand_ctrl
+    400040: L_hand_ctrl_grp
+    400042: L_Leg
+    400044: L_leg_ctrl
+    400046: L_leg_ctrl_grp
+    400048: Neck
+    400050: Neck_ctrl
+    400052: Neck_ctrl_grp
+    400054: R_Arm
+    400056: R_arm_ctrl
+    400058: R_arm_ctrl_grp1
+    400060: R_Foot
+    400062: R_foot_ctrl
+    400064: R_foot_ctrl_grp
+    400066: R_Hand
+    400068: R_hand_ctrl
+    400070: R_hand_ctrl_grp
+    400072: R_Leg
+    400074: R_leg_ctrl
+    400076: R_leg_ctrl_grp
+    400078: //RootNode
+    400080: Skeleton
+    400082: Tail1
+    400084: Tail2
+    400086: Tail3
+    400088: Tail_1_ctrl
+    400090: Tail_1_ctrl_grp
+    400092: Tail_2_ctrl_grp
+    400094: Tail_2_ctrl_grp 1
+    400096: Tail_3_ctrl_grp
+    400098: Tail_3_ctrl_grp 1
+    400100: Top_Mouth
+    400102: Top_Mouth_ctrl
+    400104: Top_Mouth_ctrl_grp
+    400106: Transform_ctrl
+    400108: Transform_ctrl_grp
+    2100000: Fur
+    2100002: Eyes
+    2100004: Nose
+    2100006: lambert1
+    4300000: Geo
+    9500000: //RootNode
+    13700000: Geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
