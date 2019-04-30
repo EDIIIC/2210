@@ -4,7 +4,8 @@ using UnityEngine.SocialPlatforms.Impl;
 public class PlayerDeath : MonoBehaviour {
 
     public LevelManager myLevelManager;
-    
+    public GameObject explosionEffect;
+
     void OnTriggerEnter (Collider trigger) 
     {
         myLevelManager.LevelLoad ("GameOver");
@@ -17,7 +18,6 @@ public class PlayerDeath : MonoBehaviour {
     }
       
 }
-
 
 
 /*

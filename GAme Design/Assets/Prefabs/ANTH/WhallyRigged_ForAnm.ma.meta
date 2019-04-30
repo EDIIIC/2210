@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 2f122206997d34a8a8157d8004fcc014
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: COG_ctrl
+    100002: Cog_ctrl_grp
+    100004: L_fin_jnt
+    100006: L_Shoulder_ctrl_grp
+    100008: L_shoulder_jnt
+    100010: L_Tail_fin_ctrl
+    100012: L_Tail_fin_ctrl 1
+    100014: L_Tail_fin_ctrl_grp
+    100016: L_Tail_fin_ctrl_grp2
+    100018: L_Tail_fin_jnt
+    100020: LEye
+    100022: Lower_Mouth_ctrl
+    100024: Lower_Mouth_ctrl_grp
+    100026: Lower_Mouth_jnt
+    100028: Neck_Base
+    100030: Neck_ctrl
+    100032: Neck_ctrl_grp
+    100034: nurbsCircle1
+    100036: nurbsCircle1 1
+    100038: R_Fin_jnt
+    100040: R_Shoulder_ctrl_grp1
+    100042: R_shoulder_jnt
+    100044: R_Tail_fin_ctrl
+    100046: R_Tail_fin_ctrl 1
+    100048: R_Tail_fin_ctrl_grp1
+    100050: R_Tail_fin_ctrl_grp1 1
+    100052: R_Tail_fin_jnt
+    100054: REye
+    100056: Tail_1_ctrl
+    100058: Tail_1_ctrl_grp
+    100060: Tail_2_ctrl
+    100062: Tail_2_ctrl_grp
+    100064: Tail_3_ctrl_grp
+    100066: Tail_4_ctrl
+    100068: Tail_4_ctrl_grp
+    100070: Tail_5_ctrl
+    100072: Tail_5_ctrl_grp
+    100074: Tail_6_ctrl
+    100076: Tail_jnt_1
+    100078: Tail_jnt_2
+    100080: Tail_jnt_3
+    100082: Tail_jnt_4
+    100084: Tail_jnt_5
+    100086: Transform_ctrl
+    100088: Transform_ctrl_grp
+    100090: Upper_Mouth_ctrl
+    100092: Upper_Mouth_ctrl_grp
+    100094: Upper_Mouth_jnt
+    100096: Walter
+    100098: Whale_Geo
+    100100: Whale_Skel
+    100102: //RootNode
+    400000: COG_ctrl
+    400002: Cog_ctrl_grp
+    400004: L_fin_jnt
+    400006: L_Shoulder_ctrl_grp
+    400008: L_shoulder_jnt
+    400010: L_Tail_fin_ctrl
+    400012: L_Tail_fin_ctrl 1
+    400014: L_Tail_fin_ctrl_grp
+    400016: L_Tail_fin_ctrl_grp2
+    400018: L_Tail_fin_jnt
+    400020: LEye
+    400022: Lower_Mouth_ctrl
+    400024: Lower_Mouth_ctrl_grp
+    400026: Lower_Mouth_jnt
+    400028: Neck_Base
+    400030: Neck_ctrl
+    400032: Neck_ctrl_grp
+    400034: nurbsCircle1
+    400036: nurbsCircle1 1
+    400038: R_Fin_jnt
+    400040: R_Shoulder_ctrl_grp1
+    400042: R_shoulder_jnt
+    400044: R_Tail_fin_ctrl
+    400046: R_Tail_fin_ctrl 1
+    400048: R_Tail_fin_ctrl_grp1
+    400050: R_Tail_fin_ctrl_grp1 1
+    400052: R_Tail_fin_jnt
+    400054: REye
+    400056: Tail_1_ctrl
+    400058: Tail_1_ctrl_grp
+    400060: Tail_2_ctrl
+    400062: Tail_2_ctrl_grp
+    400064: Tail_3_ctrl_grp
+    400066: Tail_4_ctrl
+    400068: Tail_4_ctrl_grp
+    400070: Tail_5_ctrl
+    400072: Tail_5_ctrl_grp
+    400074: Tail_6_ctrl
+    400076: Tail_jnt_1
+    400078: Tail_jnt_2
+    400080: Tail_jnt_3
+    400082: Tail_jnt_4
+    400084: Tail_jnt_5
+    400086: Transform_ctrl
+    400088: Transform_ctrl_grp
+    400090: Upper_Mouth_ctrl
+    400092: Upper_Mouth_ctrl_grp
+    400094: Upper_Mouth_jnt
+    400096: Walter
+    400098: Whale_Geo
+    400100: Whale_Skel
+    400102: //RootNode
+    2100000: Eyes
+    2100002: Skin
+    2100004: Teeth
+    2300000: LEye
+    2300002: REye
+    3300000: LEye
+    3300002: REye
+    4300000: LEye
+    4300002: REye
+    4300004: Walter
+    9500000: //RootNode
+    13700000: Walter
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
